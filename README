@@ -1,0 +1,12 @@
+    toggle():
+
+• Toggles the button text between "Add to Cart" and "Remove from Cart" when clicked.
+• This function checks the current text of the button with the ID btn and switches it to the opposite state.
+  
+  
+  color():
+
+• Changes the color of the heart icon when clicked, simulating a "like" or "favorite" effect.
+• The function checks the current color of the icon with the ID heart and toggles it between white and blue.
+
+These functions are triggered by onclick events tied to their respective elements in the HTML. This setup improves user interaction by allowing them to add or remove items from the cart and visually mark favorites. 
